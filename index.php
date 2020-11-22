@@ -1,3 +1,5 @@
-HTTPD.conf - > arquivo que configura o servidor apache
-php.ini - > configuração do php
+<?php 
 
+echo "Hello World <strong> My darling </strong>"
+
+?>
